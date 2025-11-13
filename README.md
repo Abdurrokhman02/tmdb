@@ -1,6 +1,6 @@
 # tmdb
 
-A new Flutter project.
+Project FLutter untuk tugas Pemrograman mobile
 
 ## Getting Started
 
